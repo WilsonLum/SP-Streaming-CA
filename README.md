@@ -1,6 +1,9 @@
 # SP-Streaming-CA
  SP-Streaming-CA
 
+The youtube link to show to eh whole project process:
+- https://youtu.be/mNPKHdfJAaU
+
 First, you will code a Python application generate_transactions.py that periodically spills out logfiles of “customer transactions” in a folder named bakeinc/transactions.
 
 This will act as the simulation of ‘streaming data’ that will be the input to the PySpark streaming application you will write later.
